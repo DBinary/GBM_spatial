@@ -7,7 +7,7 @@ Profiling
 - [ ] Spatial intergration + clsutering
 - [ ] Spatial Deconvolution
 - [ ] Correlation between deconvolution weight and celltype fraction
-- [ ] 
+
 Hypoxic
 
 - [ ] scRNA-seq hypoxic Macrophage: deg, enrichment
@@ -15,7 +15,7 @@ Hypoxic
 - [ ] DEGs and enrichment between hypoxic region and normal region in seg region
 - [ ] CCC for hypoxic tumor and all macrophage in seg region
 - [ ] Macrophage trajectory (velocity) in seg region
-- [ ] 
+
 Blood vessel
 
 - [ ] Clustering define blood vessel
