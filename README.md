@@ -4,6 +4,7 @@ To do list:
 Profiling
 
 - [x] scRNA-seq annotation
+- [ ] show known marker expression in each cluster
 - [ ] Spatial intergration + clsutering
 - [ ] Spatial Deconvolution
 - [ ] Correlation between deconvolution weight and celltype fraction
