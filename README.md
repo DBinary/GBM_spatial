@@ -11,7 +11,7 @@ Profiling
 
 Hypoxic
 
-- [ ] scRNA-seq hypoxic Macrophage: deg, enrichment
+- [x] scRNA-seq hypoxic Macrophage: deg, enrichment
 - [ ] Spatial hypoxic region seg
 - [ ] DEGs and enrichment between hypoxic region and normal region in seg region
 - [ ] CCC for hypoxic tumor and all macrophage in seg region
