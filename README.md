@@ -19,7 +19,7 @@ Hypoxic
 
 Blood vessel
 
-- [ ] Clustering define blood vessel
+- [x] Clustering define blood vessel
 - [ ] immu cell decon weight in & out blood vessel
 - [ ] scRNA-seq exhausted score for immu cell in blood vessel
 - [ ] statistic test for Pathway score of in & outr blood vessel T/DC
