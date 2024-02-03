@@ -14,12 +14,13 @@ Hypoxic
 - [x] scRNA-seq hypoxic Macrophage: deg, enrichment
 - [x] Spatial hypoxic region seg
 - [ ] DEGs and enrichment between hypoxic region and normal region in seg region
-- [ ] CCC for hypoxic tumor and all macrophage in seg region
+- [x] CCC for hypoxic tumor and all macrophage in seg region
 - [ ] Macrophage trajectory (velocity) in seg region
 
 Blood vessel
 
 - [x] Clustering define blood vessel
-- [ ] immu cell decon weight in & out blood vessel
+- [x] immu cell decon weight in & out blood vessel
+- [x] blood vessel B/T deg & enrichment
 - [ ] scRNA-seq exhausted score for immu cell in blood vessel
 - [ ] statistic test for Pathway score of in & outr blood vessel T/DC
