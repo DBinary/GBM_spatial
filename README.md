@@ -13,13 +13,8 @@ Hypoxic
 
 - [x] scRNA-seq hypoxic Macrophage: deg, enrichment
 - [x] Spatial hypoxic region seg
-<<<<<<< HEAD
 - [x] DEGs and enrichment between hypoxic region and normal region in seg region
-- [ ] CCC for hypoxic tumor and all macrophage in seg region
-=======
-- [ ] DEGs and enrichment between hypoxic region and normal region in seg region
 - [x] CCC for hypoxic tumor and all macrophage in seg region
->>>>>>> d72639b1bc5b20e7d8ee030798365aaed9f398bd
 - [ ] Macrophage trajectory (velocity) in seg region
 
 Blood vessel
