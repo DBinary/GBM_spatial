@@ -15,7 +15,7 @@ Hypoxic
 - [x] Spatial hypoxic region seg
 - [x] DEGs and enrichment between hypoxic region and normal region in seg region
 - [x] CCC for hypoxic tumor and all macrophage in seg region
-- [ ] Macrophage trajectory (velocity) in seg region
+- [x] Macrophage trajectory (velocity) in seg region
 
 Blood vessel
 
