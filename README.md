@@ -22,5 +22,5 @@ Blood vessel
 - [x] Clustering define blood vessel
 - [x] immu cell decon weight in & out blood vessel
 - [x] blood vessel B/T deg & enrichment
-- [ ] scRNA-seq exhausted score for immu cell in blood vessel
-- [ ] statistic test for Pathway score of in & outr blood vessel T/DC
+- [x] scRNA-seq exhausted score for immu cell in blood vessel
+- [x] statistic test for Pathway score of in & outr blood vessel T/DC
